@@ -33,12 +33,4 @@
 
 ---
 
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/2137fmcw2jpuzzbbvjxaw6ubi?si=af728c7487414d71)
-<br/>
----
-
 [![Santaigo's github stats](https://github-readme-stats.vercel.app/api?username=santiesleo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
