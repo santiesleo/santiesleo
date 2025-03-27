@@ -8,7 +8,7 @@
 </div>
 
 ## About me  
-- 👨‍🎓 Software Engineering student at [ICESI](https://www.icesi.edu.co/es/)
+- 👨‍🎓 Software Engineering and Telematics Engineering student at [ICESI](https://www.icesi.edu.co/es/)
 - 💡 Passionate about software development, technology, and problem-solving
 - 🏅 Big fan of sports and an active lifestyle
 - 📚 Currently diving deeper into Full Stack Development
